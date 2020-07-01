@@ -34,7 +34,7 @@ p{
     background-repeat: no-repeat;
 }
 section{
-    height: 450px;
+    height: 400px;
 }
 .link-side{
     text-decoration: none;
@@ -78,7 +78,7 @@ section{
     margin-right: 25%;
     padding-top: 5px;
     padding-bottom: 10px;
-    border-radius: 10px;
+    border-radius: 9px;
 }
 .final-area{
     background-image: url("images/footer-bg.png");
